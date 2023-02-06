@@ -9,7 +9,7 @@
   </head>
   <body>
     <div id="unity-container" class="unity-desktop">
-      <canvas id="unity-canvas" width=960 height=600></canvas>
+      <canvas id="unity-canvas" width=1024 height=960></canvas>
       <div id="unity-loading-bar">
         <div id="unity-logo"></div>
         <div id="unity-progress-bar-empty">
@@ -56,11 +56,11 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/WebBuild2.loader.js";
+      var loaderUrl = buildUrl + "/zelda_remaster.loader.js";
       var config = {
-        dataUrl: buildUrl + "/WebBuild2.data",
-        frameworkUrl: buildUrl + "/WebBuild2.framework.js",
-        codeUrl: buildUrl + "/WebBuild2.wasm",
+        dataUrl: buildUrl + "/zelda_remaster.data",
+        frameworkUrl: buildUrl + "/zelda_remaster.framework.js",
+        codeUrl: buildUrl + "/zelda_remaster.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "494_p1",
