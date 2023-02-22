@@ -1,0 +1,4 @@
+Main Menu implementation inspired by: https://www.youtube.com/watch?v=BjEqZfK15Ws
+Wave Manager implementation taken from: https://www.youtube.com/watch?v=7T-MTo8Uaio
+Ammo Bar implementation inspired by: https://www.youtube.com/watch?v=BLfNP4Sc_iA
+Background sprite credit to CupNooble https://cupnooble.itch.io/
